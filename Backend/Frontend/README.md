@@ -1,1 +1,2 @@
-Add README for frontend folder
+Delete backend README
+
